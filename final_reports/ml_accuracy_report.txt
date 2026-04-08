@@ -1,0 +1,12 @@
+[Entropy] Random Forest: 20.00%
+[Entropy] SVM: 40.00%
+[Entropy] KNN: 30.00%
+[Entropy] Decision Tree: 20.00%
+[Chaotic] Random Forest: 20.00%
+[Chaotic] SVM: 40.00%
+[Chaotic] KNN: 40.00%
+[Chaotic] Decision Tree: 20.00%
+[Hybrid] Random Forest: 20.00%
+[Hybrid] SVM: 40.00%
+[Hybrid] KNN: 40.00%
+[Hybrid] Decision Tree: 20.00%
