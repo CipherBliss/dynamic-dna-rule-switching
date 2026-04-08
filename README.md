@@ -165,12 +165,15 @@ python src/encryption.py
 
 ---
 
-## 👩‍💻 Author
+## 👩‍💻 Authors
 
-**Ritusree Banerjee**
-**Tithi Ghosh**
-**Achismita Dey**
-B.Tech CSE (Cyber Security & Forensics)
+* **Ritusree Banerjee**
+* Achismita Dey
+* Tithi Ghosh
+
+Guide: **Ms.Bhabna De**
+Adamas University, Kolkata
+
 
 ---
 
