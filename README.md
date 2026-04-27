@@ -36,7 +36,6 @@ Binary data is converted into DNA sequences using symbols:
 * G (Guanine)
 
 Different rules exist to map binary → DNA, which increases flexibility.
-
 ---
 
 ### 🔹 Dynamic DNA Rule Switching
